@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "thomas",
+    "password": "YOUR_PASSWORD_HERE",
+    "database": "shopping_center_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "YOUR_PASSWORD_HERE",
+    "database": "shopping_center_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "YOUR_PASSWORD_HERE",
+    "database": "shopping_center_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
